@@ -53,16 +53,20 @@ O projeto está dividido em duas partes principais:
 
 3. Instale as dependências e execute as migrações:
 
-````cd pizzashop-api
+```sh
+cd pizzashop-api
 bun i
 bun migrate
 bun seed
-bun dev```
+bun dev
+```
 
 4. Inicie o frontend:
-```cd ../pizzashop-web
+```sh
+cd ../pizzashop-web
 yarn
-yarn dev```
+yarn dev
+```
 
 5. Acesse a aplicação em http://localhost:5173
 
@@ -121,4 +125,3 @@ Para rodar os testes unitários do frontend, utilize:
 
 Para rodar os testes E2E no frontend, utilize:
 ```yarn playwright test --ui```
-````
