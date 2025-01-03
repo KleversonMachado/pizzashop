@@ -1,6 +1,6 @@
 # 🍕 pizza.shop
 
-Pizza Shop é um aplicativo de entrega de comida (similar ao iFood/Uber Eats), porém nessa versão contém apenas a visão administrativa. Construído com TypeScript, Drizzle e ElysiaJS.
+Pizza Shop é um aplicativo de entrega de comida (similar ao iFood/Uber Eats), porém nessa versão contém apenas a visão administrativa. Construído com TypeScript, React, Drizzle e ElysiaJS.
 
 ## Tecnologias Utilizadas
 
